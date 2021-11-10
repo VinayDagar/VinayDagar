@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working with [Mindrops](https://mindrops.com/).
 - 🌱 I’m currently learning more about BlockChain, AWS.
-- 🤔 I’m looking for creating React's Boilerplate .
+- 🤔 I’m looking for learning Discord Bot.
 - 💬 Ask me about Node.js or React.js or JavaScript or any tech-related stuff.
 - 📫 How to reach me: [Mail - @vinay.dagar102@gmail.com](https://gmail.com)
 - 😄 Pronouns: He/His
@@ -59,8 +59,8 @@
 <a href="https://github.com/VinayDagar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VinayDagar&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/VinayDagar/CabBooking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayDagar&repo=CabBooking&theme=light" />
+<a href="https://github.com/VinayDagar/welcome-discord-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayDagar&repo=welcome-discord-bot&theme=light" />
 
 </a>
 <a href="https://github.com/VinayDagar/typescript-ecommerce">
