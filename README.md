@@ -63,8 +63,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayDagar&repo=welcome-discord-bot&theme=light" />
 
 </a>
-<a href="https://github.com/VinayDagar/typescript-ecommerce">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayDagar&repo=typescript-ecommerce&theme=light" />
+<a href="https://github.com/VinayDagar/InstaClone">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayDagar&repo=InstaClone&theme=light" />
 </a>
 
 <div align="center">
