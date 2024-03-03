@@ -29,12 +29,10 @@
 
 
 - 🔭 I’m currently working with [SourceFuse](https://www.sourcefuse.com/).
-- 🌱 Always looking for learning new skills.
-- 🤔 I’m looking for learning Discord Bot.
-- 💬 Ask me about Node.js, React.js, vue.js or JavaScript or any tech-related stuff.
+- 🌱 Always looking to learn new skills.
+- 💬 Ask me about Node.js, React.js, vue.js JavaScript, or any tech-related stuff.
 - 📫 How to reach me: [Mail - @vinay.dagar102@gmail.com](https://gmail.com)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend my free time playing video game, watching movies/series  and learning new skill.
+- ⚡ Fun fact: I spend my free time playing video games, watching movies/series, and learning new skills.
 
 [![Linkedin: VinayDagar](https://img.shields.io/badge/-vinaydagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-dagar/)](https://www.linkedin.com/in/vinay-dagar/)
 [![GitHub VinayDagar](https://img.shields.io/github/followers/VinayDagar?label=follow&style=social)](https://github.com/VinayDagar)
